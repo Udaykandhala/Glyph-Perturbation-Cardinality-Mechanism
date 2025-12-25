@@ -91,3 +91,6 @@ It is not intended as a cryptographic system or secure messaging product.
 License
 This repository is released for academic and research use.
 Please contact the author for commercial licensing or derivative work permissions.
+
+Datasets are not included.
+Users may supply any text, image, audio, or video file.
